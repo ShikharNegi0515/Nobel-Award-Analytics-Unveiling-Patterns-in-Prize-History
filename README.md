@@ -50,7 +50,8 @@ These findings offer valuable insights into the evolution of the Nobel Prize and
 ## Conclusion
 The "Nobel Award Analytics" project provides a rich, data-driven exploration of one of the world's most prestigious awards. By analyzing more than a century of Nobel Prize data, this project contributes to our understanding of the factors that have shaped the awarding of Nobel Prizes and highlights trends that may continue to evolve in the future.
 
-#### Contributors
+## Contributors
 Shikhar Negi - LinkedIn- https://www.linkedin.com/in/shikhar-negi-745508235/
+
 GitHub Repository: ShikharNegi0515
 
